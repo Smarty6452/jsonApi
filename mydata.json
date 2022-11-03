@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "company": "Balenciaga Speed",
+    "price": 60000,
+    "colors": ["#ff0000", "#000000", "#CDD0D0"],
+    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "By aisle 3",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Tshirt",
+    "company": "samsung",
+    "price": 5000000,
+    "colors": ["#000", "#22D3EF"],
+    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Sports clothing consists of lightweight and breathable fabrics, surface treatments, and various designs which aim to enhance sweat evaporation and comfort during exercise in the heat",
+    "category": "clothes",
+    "shipping": true
+  },
+  {
+    "id": 3,
+    "name": "Gym Wear",
+    "company": "dell",
+    "price": 600000,
+    "colors": ["#22D3EF", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/man-in-black-shorts-holding-black-kettle-bell-9283300/",
+    "description": "An activewear may refer to garments that are intended to provide a combination of esthetic",
+    "category": "laptop",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "upperwear",
+    "company": "nike",
+    "price": 12599,
+    "colors": ["#000", "#000000", "#CDD0D0"],
+    "image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Upperwear is the wardrobe you create when you work on line or on TV and are only 'seen' from the waist up",
+    "category": "clothes",
+    "shipping": true
+  },
+  {
+    "id": "5",
+    "name": "Baleena",
+    "company": "adidas",
+    "price": 40099,
+    "colors": ["#000", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/macro-photography-of-pair-of-black-and-white-nike-running-shoes-1124466/",
+    "description": "Team up with adidas and use our running shoe finder to choose your idea",
+    "category": "computer",
+    "shipping": true
+  },
+  {
+    "id": "6",
+    "name": "bindas",
+    "company": "puma shoes",
+    "price": 4999,
+    "colors": ["#000000", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/legs-of-a-girl-wearing-sports-shoes-14037325/",
+    "description": "We enhance sports such as football, running and training, golf, basketball and motorsports with performance and sport-inspired lifestyle products",
+    "category": "shoe",
+    "shipping": true
+  },
+  {
+    "id": 7,
+    "name": "Nike",
+    "company": "Balenciaga Speed",
+    "price": 60000,
+    "colors": ["#ff0000", "#000000", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/advertisement-photo-of-sport-shoe-12725051/",
+    "description": "By aisle 3",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Tshirt",
+    "company": "samsung",
+    "price": 5000000,
+    "colors": ["#000", "#22D3EF"],
+    "image": "https://www.pexels.com/photo/beautiful-women-in-black-clothes-standing-inside-the-gym-7321040/\n",
+    "description": "Sports clothing consists of lightweight and breathable fabrics, surface treatments, and various designs which aim to enhance sweat evaporation and comfort during exercise in the heat",
+    "category": "clothes",
+    "shipping": true
+  },
+  {
+    "id": 9,
+    "name": "Gym Wear",
+    "company": "dell",
+    "price": 600000,
+    "colors": ["#22D3EF", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/man-in-black-shorts-holding-black-kettle-bell-9283300/",
+    "description": "An activewear may refer to garments that are intended to provide a combination of esthetic",
+    "category": "laptop"
+  }
+]
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "company": "Balenciaga Speed",
+    "price": 60000,
+    "colors": ["#ff0000", "#000000", "#CDD0D0"],
+    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "By aisle 3",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Tshirt",
+    "company": "samsung",
+    "price": 5000000,
+    "colors": ["#000", "#22D3EF"],
+    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Sports clothing consists of lightweight and breathable fabrics, surface treatments, and various designs which aim to enhance sweat evaporation and comfort during exercise in the heat",
+    "category": "clothes",
+    "shipping": true
+  },
+  {
+    "id": 3,
+    "name": "Gym Wear",
+    "company": "dell",
+    "price": 600000,
+    "colors": ["#22D3EF", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/man-in-black-shorts-holding-black-kettle-bell-9283300/",
+    "description": "An activewear may refer to garments that are intended to provide a combination of esthetic",
+    "category": "laptop",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "upperwear",
+    "company": "nike",
+    "price": 12599,
+    "colors": ["#000", "#000000", "#CDD0D0"],
+    "image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Upperwear is the wardrobe you create when you work on line or on TV and are only 'seen' from the waist up",
+    "category": "clothes",
+    "shipping": true
+  },
+  {
+    "id": "5",
+    "name": "Baleena",
+    "company": "adidas",
+    "price": 40099,
+    "colors": ["#000", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/macro-photography-of-pair-of-black-and-white-nike-running-shoes-1124466/",
+    "description": "Team up with adidas and use our running shoe finder to choose your idea",
+    "category": "computer",
+    "shipping": true
+  },
+  {
+    "id": "6",
+    "name": "bindas",
+    "company": "puma shoes",
+    "price": 4999,
+    "colors": ["#000000", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/legs-of-a-girl-wearing-sports-shoes-14037325/",
+    "description": "We enhance sports such as football, running and training, golf, basketball and motorsports with performance and sport-inspired lifestyle products",
+    "category": "shoe",
+    "shipping": true
+  },
+  {
+    "id": 7,
+    "name": "Nike",
+    "company": "Balenciaga Speed",
+    "price": 60000,
+    "colors": ["#ff0000", "#000000", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/advertisement-photo-of-sport-shoe-12725051/",
+    "description": "By aisle 3",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Tshirt",
+    "company": "samsung",
+    "price": 5000000,
+    "colors": ["#000", "#22D3EF"],
+    "image": "https://www.pexels.com/photo/beautiful-women-in-black-clothes-standing-inside-the-gym-7321040/\n",
+    "description": "Sports clothing consists of lightweight and breathable fabrics, surface treatments, and various designs which aim to enhance sweat evaporation and comfort during exercise in the heat",
+    "category": "clothes",
+    "shipping": true
+  },
+  {
+    "id": 9,
+    "name": "Gym Wear",
+    "company": "dell",
+    "price": 600000,
+    "colors": ["#22D3EF", "#CDD0D0"],
+    "image": "https://www.pexels.com/photo/man-in-black-shorts-holding-black-kettle-bell-9283300/",
+    "description": "An activewear may refer to garments that are intended to provide a combination of esthetic",
+    "category": "laptop"
+  }
+]
