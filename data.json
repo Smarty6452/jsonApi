@@ -5,18 +5,18 @@
     "company": "Balenciaga Speed",
     "price": 60000,
     "colors": ["#ff0000", "#000000", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1%201x,%20https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2%202x",
     "description": "By aisle 3",
     "category": "mobile",
     "featured": true
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Tshirt",
     "company": "samsung",
     "price": 5000000,
     "colors": ["#000", "#22D3EF"],
-    "image": "https://www.pexels.com/photo/beautiful-women-in-black-clothes-standing-inside-the-gym-7321040/\n",
+    "image": "https://images.pexels.com/photos/1040424/pexels-photo-1040424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "Sports clothing consists of lightweight and breathable fabrics, surface treatments, and various designs which aim to enhance sweat evaporation and comfort during exercise in the heat",
     "category": "clothes",
     "shipping": true
@@ -27,7 +27,7 @@
     "company": "dell",
     "price": 600000,
     "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://www.pexels.com/photo/man-in-black-shorts-holding-black-kettle-bell-9283300/",
+    "image": "https://images.pexels.com/photos/2105493/pexels-photo-2105493.jpeg?auto=compress&cs=tinysrgb&w=600",
     "description": "An activewear may refer to garments that are intended to provide a combination of esthetic",
     "category": "laptop",
     "featured": true
@@ -38,7 +38,7 @@
     "company": "nike",
     "price": 12599,
     "colors": ["#000", "#000000", "#CDD0D0"],
-    "image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1%201x,%20https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2%202x",
     "description": "Upperwear is the wardrobe you create when you work on line or on TV and are only 'seen' from the waist up",
     "category": "clothes",
     "shipping": true
@@ -49,7 +49,7 @@
     "company": "adidas",
     "price": 40099,
     "colors": ["#000", "#CDD0D0"],
-    "image": "https://www.pexels.com/photo/macro-photography-of-pair-of-black-and-white-nike-running-shoes-1124466/",
+    "image": "https://images.pexels.com/photos/38630/bodybuilder-weight-training-stress-38630.jpeg?auto=compress&cs=tinysrgb&w=600",
     "description": "Team up with adidas and use our running shoe finder to choose your idea",
     "category": "computer",
     "shipping": true
@@ -71,7 +71,7 @@
     "company": "Balenciaga Speed",
     "price": 60000,
     "colors": ["#ff0000", "#000000", "#CDD0D0"],
-    "image": "https://www.pexels.com/photo/advertisement-photo-of-sport-shoe-12725051/",
+    "image": "https://images.pexels.com/photos/38630/bodybuilder-weight-training-stress-38630.jpeg?auto=compress&cs=tinysrgb&w=600",
     "description": "By aisle 3",
     "category": "mobile",
     "featured": true
@@ -82,7 +82,7 @@
     "company": "samsung",
     "price": 5000000,
     "colors": ["#000", "#22D3EF"],
-    "image": "https://www.pexels.com/photo/beautiful-women-in-black-clothes-standing-inside-the-gym-7321040/\n",
+    "image": "https://images.pexels.com/photos/1040424/pexels-photo-1040424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "Sports clothing consists of lightweight and breathable fabrics, surface treatments, and various designs which aim to enhance sweat evaporation and comfort during exercise in the heat",
     "category": "clothes",
     "shipping": true
@@ -93,7 +93,7 @@
     "company": "dell",
     "price": 600000,
     "colors": ["#22D3EF", "#CDD0D0"],
-    "image": "https://www.pexels.com/photo/man-in-black-shorts-holding-black-kettle-bell-9283300/",
+    "image": "https://images.pexels.com/photos/4164759/pexels-photo-4164759.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
     "description": "An activewear may refer to garments that are intended to provide a combination of esthetic",
     "category": "laptop"
   }
